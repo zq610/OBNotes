@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "9e2fb146fe7fe74b",
+    "type": "split",
+    "children": [
+      {
+        "id": "926281ca6617f1d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31c6d2466fc3179a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/SQL基本语句.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a629cf87ed94c0bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a29031fb1ac988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9013658cb53068a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "718cf650c207e4cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cab25bb53d6b499",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef039566d89b83c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac96bcea9fbc5f78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6377207914ffe1c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SQL/SQL基本语句.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "181b4394a60467bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SQL/SQL基本语句.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e51f81ae6725fb85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81789f952c2fddc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SQL/SQL基本语句.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9013658cb53068a1",
+  "lastOpenFiles": [
+    "C++/：：.md",
+    "C++/运算符重载.md",
+    "C++/虚指针和虚表.md",
+    "C++/纯虚函数和抽象类.md",
+    "C++/模板.md",
+    "C++/文件读取(获取输入输出).md",
+    "C++/指针和引用.md",
+    "C++/异常捕获.md",
+    "C++/函数指针.md",
+    "C++/位域.md",
+    "C++/volatile.md",
+    "C++/using.md",
+    "C++/virtual.md",
+    "C++/union.md",
+    "C++/struct.md",
+    "C++/SQL联系语句.md",
+    "C++/sizeof.md",
+    "C++/macro.md",
+    "C++/Inline.md",
+    "C++/friend.md",
+    "C++/extern.md",
+    "C++/explicit.md",
+    "C++/enum.md",
+    "C++/decltype.md",
+    "C++/C实现C++多态.md",
+    "C++/assert.md",
+    "C++",
+    "SQL",
+    "modern C++/运行期的强化",
+    "modern C++/编译期的强化",
+    "modern C++/智能指针与内存管理",
+    "modern C++/容器",
+    "modern C++"
+  ]
+}
