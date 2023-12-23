@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "926281ca6617f1d6",
+        "id": "fbd08ced7a41b639",
         "type": "tabs",
         "children": [
           {
-            "id": "31c6d2466fc3179a",
+            "id": "ae81522b2c7169f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/SQL基本语句.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL基本语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL基本语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL/SQL基本语句.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,8 @@
   },
   "active": "9013658cb53068a1",
   "lastOpenFiles": [
+    "2023-12-23.md",
+    "SQL/SQL基本语句.md",
     "C++/：：.md",
     "C++/运算符重载.md",
     "C++/虚指针和虚表.md",
@@ -172,8 +166,6 @@
     "C++/explicit.md",
     "C++/enum.md",
     "C++/decltype.md",
-    "C++/C实现C++多态.md",
-    "C++/assert.md",
     "C++",
     "SQL",
     "modern C++/运行期的强化",
