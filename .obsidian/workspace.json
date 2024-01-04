@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo/UE随机点单.md",
-                "mode": "source",
+                "file": "C++/纯虚函数和抽象类.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo/UE随机点单.md",
+                "file": "C++/纯虚函数和抽象类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo/UE随机点单.md",
+                "file": "C++/纯虚函数和抽象类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo/UE随机点单.md"
+                "file": "C++/纯虚函数和抽象类.md"
               }
             }
           }
@@ -171,28 +171,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9013658cb53068a1",
+  "active": "59708138b02d58e3",
   "lastOpenFiles": [
+    "C++/文件读取(获取输入输出).md",
+    "C++/纯虚函数和抽象类.md",
+    "C++/：：.md",
+    "C++/函数指针.md",
     "LearnCpp/1、程序运行流程.canvas",
+    "ToDo/UE随机点单.md",
     "LearnCpp",
     "ToDo/UE.md",
     "ToDo/C++.md",
-    "ToDo/UE随机点单.md",
     "未命名",
     "未命名.canvas",
     "UE随机点单.md",
     "ToDo",
     "2023-12-23.md",
     "SQL/SQL基本语句.md",
-    "C++/：：.md",
     "C++/运算符重载.md",
     "C++/虚指针和虚表.md",
-    "C++/纯虚函数和抽象类.md",
     "C++/模板.md",
-    "C++/文件读取(获取输入输出).md",
     "C++/指针和引用.md",
     "C++/异常捕获.md",
-    "C++/函数指针.md",
     "C++/位域.md",
     "C++/volatile.md",
     "C++/using.md",
