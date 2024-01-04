@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6714c9beb014f1d",
+            "id": "5ff05e63010fe3e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo/UE随机点单.md",
+                "file": "经典题目/回文字符串.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbdce8dd5a72e489",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ToDo/C++.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59708138b02d58e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/指针和引用.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/指针和引用.md",
+                "file": "经典题目/回文字符串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/指针和引用.md",
+                "file": "经典题目/回文字符串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/指针和引用.md"
+                "file": "经典题目/回文字符串.md"
               }
             }
           }
@@ -171,8 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "59708138b02d58e3",
+  "active": "5ff05e63010fe3e7",
   "lastOpenFiles": [
+    "C++/指针和引用.md",
+    "经典题目/回文字符串.md",
+    "经典题目",
     "C++/虚指针和虚表.md",
     "C++/函数指针.md",
     "C++/纯虚函数和抽象类.md",
@@ -183,7 +161,6 @@
     "LearnCpp",
     "ToDo/UE.md",
     "ToDo/C++.md",
-    "未命名",
     "未命名.canvas",
     "UE随机点单.md",
     "ToDo",
@@ -191,7 +168,6 @@
     "SQL/SQL基本语句.md",
     "C++/运算符重载.md",
     "C++/模板.md",
-    "C++/指针和引用.md",
     "C++/异常捕获.md",
     "C++/位域.md",
     "C++/volatile.md",
