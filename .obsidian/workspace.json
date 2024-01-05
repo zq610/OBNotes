@@ -8,37 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9aa7456a294055cc",
+            "id": "9c6667c826bfe082",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIntCodeC++/1、char数组和string.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "298cc90b8b0456e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIntCodeC++/2、vector向量和数组.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d47cdee8e0a1cb3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIntCodeC++/2、vector向量和数组.md",
-                "mode": "source",
+                "file": "LIntCodeC++/4、set集合.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIntCodeC++/1、char数组和string.md",
+                "file": "LIntCodeC++/4、set集合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIntCodeC++/1、char数组和string.md",
+                "file": "LIntCodeC++/4、set集合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIntCodeC++/1、char数组和string.md"
+                "file": "LIntCodeC++/4、set集合.md"
               }
             }
           }
@@ -170,10 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9aa7456a294055cc",
+  "active": "9c6667c826bfe082",
   "lastOpenFiles": [
+    "LIntCodeC++/3、迭代器iterator与指针.md",
     "LIntCodeC++/2、vector向量和数组.md",
-    "3、迭代器iterator与指针.md",
+    "LIntCodeC++/4、set集合.md",
     "LIntCodeC++/1、char数组和string.md",
     "LIntCodeC++",
     "经典题目/回文字符串.md",
@@ -203,7 +180,6 @@
     "C++/using.md",
     "C++/virtual.md",
     "C++/union.md",
-    "C++/struct.md",
     "C++",
     "SQL",
     "modern C++/运行期的强化",
