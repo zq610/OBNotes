@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aeebfd3e5ea9c6b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10、链表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIntCodeC++/9、函数.md",
+                "file": "10、链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIntCodeC++/9、函数.md",
+                "file": "10、链表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIntCodeC++/9、函数.md"
+                "file": "10、链表.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d7e0c1b2939dc339",
+  "active": "aeebfd3e5ea9c6b4",
   "lastOpenFiles": [
-    "LIntCodeC++/8、结构体和class.md",
     "LIntCodeC++/9、函数.md",
+    "10、链表.md",
+    "LIntCodeC++/8、结构体和class.md",
     "LIntCodeC++/7、map字典.md",
     "LIntCodeC++/5、stack.md",
     "LIntCodeC++/6、queue队列.md",
@@ -179,7 +193,6 @@
     "C++/文件读取(获取输入输出).md",
     "C++/指针和引用.md",
     "C++/异常捕获.md",
-    "C++/函数指针.md",
     "C++",
     "SQL",
     "modern C++/运行期的强化",
