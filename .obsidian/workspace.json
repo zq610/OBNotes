@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7、map字典.md",
+                "file": "LIntCodeC++/8、结构体和class.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7、map字典.md",
+                "file": "LIntCodeC++/8、结构体和class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7、map字典.md",
+                "file": "LIntCodeC++/8、结构体和class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7、map字典.md"
+                "file": "LIntCodeC++/8、结构体和class.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "ea7391007f9664a4",
   "lastOpenFiles": [
+    "LIntCodeC++/7、map字典.md",
+    "LIntCodeC++/8、结构体和class.md",
     "LIntCodeC++/5、stack.md",
-    "7、map字典.md",
     "LIntCodeC++/6、queue队列.md",
     "LIntCodeC++/4、set集合.md",
     "LIntCodeC++/3、迭代器iterator与指针.md",
@@ -192,7 +193,6 @@
     "C++/异常捕获.md",
     "C++/函数指针.md",
     "C++/位域.md",
-    "C++/volatile.md",
     "C++",
     "SQL",
     "modern C++/运行期的强化",
