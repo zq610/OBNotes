@@ -12,7 +12,7 @@
   
   - struct Base base；
   
-  - ```cpp
+   ```cpp
     typedef struct Base
     {
     }base;
