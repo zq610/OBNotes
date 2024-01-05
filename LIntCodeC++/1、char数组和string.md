@@ -39,3 +39,23 @@ char *strsub(char[] str1, char[] str2, int start, int end)
 | ==sort(ptr1,ptr2)== | ==迭代器范围字符按ASCII码顺序排序== |
 | ==reverse(ptr1,ptr2)== | ==迭代器范围字符反转== |
 需要`#include<algorithm>`
+## 4、string分割字符串
+```cpp
+vector<string> SplitString(string& str1,string& t)
+{
+	vector<string> s;
+	int start=0,pos;
+	while(start<str1.size())
+	{
+		if(str1.find(t,start)==string::npos)
+		{
+			s.push_back(str1.substr(start));
+			break;
+		}
+		pos = str1.find(t,start);
+		s.push_back(str1.substr(start,pos-start));
+		start = pos+t.size();
+	}
+	return move(s)
+}
+```
