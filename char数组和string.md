@@ -19,3 +19,23 @@ char *strsub(char[] str1, char[] str2, int start, int end)
 	str1[i] = 0;
 	return str1;
 }
+```
+## 3、string常用函数
+| 方法(#include<string>) | 用途 |
+| ---- | :--: |
+| s.begin() | 返回s首地址 |
+| s.end() | 返回s尾地址=最后字符的下一个位置 |
+| s.insert(p,str) | 在位置p后插入str，返回s |
+| s.insert(ptr,c) | 在迭代器ptr前面插入字符c |
+| s.append(str) | 追加str到s末尾，返回s |
+| s.erase() |  |
+| s.rerplace(p,len,str) | 从p开始，用str替换长度len的字符 |
+| s.compare(str) | 比较s和str |
+| s.find(c/str) | 查找 |
+| s.substr(p,len) | 获取子串 |
+| s.length() |  |
+| s.empty() |  |
+| s.clear() |  |
+| ==sort(ptr1,ptr2)== | ==迭代器范围字符按ASCII码顺序排序== |
+| ==reverse(ptr1,ptr2)== | ==迭代器范围字符反转== |
+需要`#include<algorithm>`
