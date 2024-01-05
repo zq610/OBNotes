@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b2ff7c8bba066534",
+        "id": "518cf819d67bdb73",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e0c1b2939dc339",
+            "id": "139a7dafcd6f79c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIntCodeC++/9、函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aeebfd3e5ea9c6b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10、链表.md",
+                "file": "LIntCodeC++/10、链表.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10、链表.md",
+                "file": "LIntCodeC++/10、链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10、链表.md",
+                "file": "LIntCodeC++/10、链表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10、链表.md"
+                "file": "LIntCodeC++/10、链表.md"
               }
             }
           }
@@ -159,10 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aeebfd3e5ea9c6b4",
+  "active": "139a7dafcd6f79c6",
   "lastOpenFiles": [
+    "C++/C实现C++多态.md",
+    "LIntCodeC++/10、链表.md",
+    "LIntCodeC++/存储期（分配内存~释放内存）.md",
     "LIntCodeC++/9、函数.md",
-    "10、链表.md",
     "LIntCodeC++/8、结构体和class.md",
     "LIntCodeC++/7、map字典.md",
     "LIntCodeC++/5、stack.md",
@@ -191,8 +180,6 @@
     "C++/纯虚函数和抽象类.md",
     "C++/模板.md",
     "C++/文件读取(获取输入输出).md",
-    "C++/指针和引用.md",
-    "C++/异常捕获.md",
     "C++",
     "SQL",
     "modern C++/运行期的强化",
