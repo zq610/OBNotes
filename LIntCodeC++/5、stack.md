@@ -7,6 +7,7 @@
 | s.pop() |  |
 | s.empty() | 判空 |
 | s.top() | 读取栈顶元素 |
+| s.size() |  |
 ## 3、判断出栈序列是否合法
 ```cpp
 bool Train(vector<int>& in_order,vector<int>& leave_order)
