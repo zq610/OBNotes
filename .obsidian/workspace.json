@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIntCodeC++/C++面向对象/2、对象模型和友元.md",
-                "mode": "source",
+                "file": "LIntCodeC++/C++面向对象/1、类和对象.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIntCodeC++/C++面向对象/2、对象模型和友元.md",
+                "file": "LIntCodeC++/C++面向对象/1、类和对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIntCodeC++/C++面向对象/2、对象模型和友元.md",
+                "file": "LIntCodeC++/C++面向对象/1、类和对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIntCodeC++/C++面向对象/2、对象模型和友元.md"
+                "file": "LIntCodeC++/C++面向对象/1、类和对象.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "537fba380a4e46a6",
   "lastOpenFiles": [
+    "LIntCodeC++/C++面向对象/2、对象模型和友元.md",
     "LIntCodeC++/C++面向对象/1、类和对象.md",
     "LIntCodeC++/存储期（分配内存~释放内存）.md",
-    "LIntCodeC++/C++面向对象/2、对象模型和友元.md",
     "C++/struct.md",
     "C++/using.md",
     "C++/union.md",
