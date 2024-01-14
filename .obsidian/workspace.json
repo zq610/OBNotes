@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "139a7dafcd6f79c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIntCodeC++/基础C++数据类型等/11、枚举.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a69e5ecbc4ab4105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIntCodeC++/C++面向对象/1、类和对象.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "537fba380a4e46a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ToDo/UEC++多人游戏.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b281e8c6d75e2ca0",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
