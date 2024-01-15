@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "UEC++/1、多人游戏插件.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ef039566d89b83c1",
