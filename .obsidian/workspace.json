@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ef039566d89b83c1",
@@ -147,19 +146,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b281e8c6d75e2ca0",
+  "active": "9013658cb53068a1",
   "lastOpenFiles": [
-    "UEC++/Plugin.png",
+    "UEC++/PluginClassDesign.png",
+    "{88DE756A-3D0B-4920-A159-EFA015F059B9}.png",
     "UEC++/1、多人游戏插件.md",
+    "UEC++/OnlineSubsystemInterace.png",
+    "UEC++/Plugin.png",
     "UEC++/OnlineSubsystem.png",
     "UEC++/IP.png",
     "UEC++/C++LAN.png",
     "UEC++/蓝图LAN.png",
     "UEC++/LAN.png",
     "UEC++/P-P.png",
-    "UEC++/C-S.png",
-    "1705237434783 1.png",
-    "1705237434783.png",
     "ToDo/UEC++多人游戏.md",
     "ToDo/C++.md",
     "LIntCodeC++/C++面向对象/2、对象模型和友元.md",
