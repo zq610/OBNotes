@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1、多人游戏插件.md",
+                "file": "UEC++/1、多人游戏插件.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ef039566d89b83c1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1、多人游戏插件.md",
+                "file": "UEC++/1、多人游戏插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1、多人游戏插件.md",
+                "file": "UEC++/1、多人游戏插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1、多人游戏插件.md"
+                "file": "UEC++/1、多人游戏插件.md"
               }
             }
           }
@@ -149,12 +148,15 @@
   },
   "active": "b281e8c6d75e2ca0",
   "lastOpenFiles": [
-    "1705238115154.png",
-    "1705237583906.png",
+    "UEC++/C++LAN.png",
+    "UEC++/蓝图LAN.png",
+    "UEC++/LAN.png",
+    "UEC++/P-P.png",
+    "UEC++/C-S.png",
+    "UEC++/1、多人游戏插件.md",
     "1705237434783 1.png",
     "1705237434783.png",
     "ToDo/UEC++多人游戏.md",
-    "1、多人游戏插件.md",
     "ToDo/C++.md",
     "LIntCodeC++/C++面向对象/2、对象模型和友元.md",
     "UEC++",
