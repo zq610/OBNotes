@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b2ff7c8bba066534",
+        "id": "9805f3314863c070",
         "type": "tabs",
         "children": [
           {
-            "id": "d6714c9beb014f1d",
+            "id": "53d2b26e5a304fdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo/UE随机点单.md",
+                "file": "EssentialC++/1.C++基础.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dbdce8dd5a72e489",
+            "id": "39b33619e549e7fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo/C++.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aa7456a294055cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "char数组和string.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eea508159f1fb9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++基础.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++基础.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++基础.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++基础.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -183,45 +159,55 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6eea508159f1fb9c",
+  "active": "39b33619e549e7fe",
   "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "新建文件夹",
+    "EssentialC++/1.C++基础.md",
+    "conflict-files-obsidian-git.md",
+    "EssentialC++/2.面向过程的编程风格.md",
+    "().md",
+    "C++/extern.md",
+    "C++/函数指针.md",
+    "ToDo/UE随机点单.md",
+    "ToDo/C++.md",
+    "UEC++/蓝图LAN.png",
+    "UEC++/PluginClassDesign.png",
+    "UEC++/Plugin.png",
+    "UEC++/P-P.png",
+    "UEC++/OnlineSubsystemInterace.png",
+    "UEC++/OnlineSubsystem.png",
+    "UEC++/LAN.png",
+    "UEC++/IP.png",
+    "UEC++/C++LAN.png",
+    "UEC++/C-S.png",
+    "UEC++/1、多人游戏插件.md",
+    "UEC++",
+    "ToDo/UEC++多人游戏.md",
+    "LIntCodeC++/C++面向对象/2、对象模型和友元.md",
+    "LIntCodeC++/C++面向对象/1、类和对象.md",
+    "LIntCodeC++/基础C++数据类型等/9、函数.md",
+    "LIntCodeC++/基础C++数据类型等/8、结构体和class.md",
+    "LIntCodeC++/基础C++数据类型等/7、map字典.md",
+    "LIntCodeC++/基础C++数据类型等/6、queue队列.md",
+    "LIntCodeC++/基础C++数据类型等/5、stack.md",
+    "LIntCodeC++/基础C++数据类型等/4、set集合.md",
+    "LIntCodeC++/基础C++数据类型等/3、迭代器iterator与指针.md",
+    "LIntCodeC++/基础C++数据类型等/2、vector向量和数组.md",
+    "LIntCodeC++/基础C++数据类型等/1、char数组和string.md",
+    "LIntCodeC++/基础C++数据类型等/11、枚举.md",
+    "LIntCodeC++/基础C++数据类型等/10、链表.md",
+    "LIntCodeC++/C++面向对象",
+    "LIntCodeC++/存储期（分配内存~释放内存）.md",
+    "LIntCodeC++/基础C++数据类型等",
+    "LIntCodeC++",
     "char数组和string.md",
-    "C++基础.md",
     "未命名",
     "EssentialC++",
-    "经典题目/回文字符串.md",
-    "ToDo/UE随机点单.md",
     "经典题目",
-    "待.md",
     "LearnCpp/1、程序运行流程.canvas",
     "LearnCpp",
-    "ToDo/UE.md",
-    "ToDo/C++.md",
     "未命名.canvas",
-    "UE随机点单.md",
-    "ToDo",
-    "2023-12-23.md",
-    "SQL/SQL基本语句.md",
-    "C++/：：.md",
-    "C++/运算符重载.md",
-    "C++/虚指针和虚表.md",
-    "C++/纯虚函数和抽象类.md",
-    "C++/模板.md",
-    "C++/文件读取(获取输入输出).md",
-    "C++/指针和引用.md",
-    "C++/异常捕获.md",
-    "C++/函数指针.md",
-    "C++/位域.md",
-    "C++/volatile.md",
-    "C++/using.md",
-    "C++/virtual.md",
-    "C++/union.md",
-    "C++/struct.md",
-    "C++/SQL联系语句.md",
-    "C++",
-    "SQL",
-    "modern C++/运行期的强化",
-    "modern C++/编译期的强化",
-    "modern C++/智能指针与内存管理"
+    "ToDo"
   ]
 }
