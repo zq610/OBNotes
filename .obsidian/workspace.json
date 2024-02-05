@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EssentialC++/1.C++基础.md",
+                "file": "EssentialC++/2.面向过程的编程风格.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f93471779ceee359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3、泛型编程风格.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EssentialC++/1.C++基础.md",
+                "file": "3、泛型编程风格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EssentialC++/1.C++基础.md",
+                "file": "3、泛型编程风格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EssentialC++/1.C++基础.md"
+                "file": "3、泛型编程风格.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "53d2b26e5a304fdc",
+  "active": "f93471779ceee359",
   "lastOpenFiles": [
+    "EssentialC++/2.面向过程的编程风格.md",
+    "3、泛型编程风格.md",
+    "EssentialC++/1.C++基础.md",
     "conflict-files-obsidian-git.md",
     "新建 文本文档.txt",
     "新建文件夹",
-    "EssentialC++/1.C++基础.md",
-    "EssentialC++/2.面向过程的编程风格.md",
     "().md",
     "C++/extern.md",
     "C++/函数指针.md",
